@@ -1,5 +1,5 @@
 import random, math
-print("Számkitalálós játék")
+print("Számkitalálós játék.")
 print()
 print("A játékot két féleképpen lehet játszani. Ön is gondolhat egy számra, akkor a program találgat. Vagy a program gondol egy számra és Ön találgathat. Válasszon, és játszon!")
 print()
